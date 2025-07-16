@@ -1,0 +1,7 @@
+mcp==1.11.0
+mem0ai[all]==0.1.114
+qdrant-client==1.14.3
+python-dotenv==1.0.1
+pydantic==2.9.2
+openai==1.54.5
+redis==5.0.1

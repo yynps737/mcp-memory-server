@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Data
+data/
+*.db
+*.sqlite
+
+# Qdrant
+qdrant_storage/
+storage/
+qdrant
+
+# Redis
+dump.rdb
+
+# MCP specific
+.mcp/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# OS
+Thumbs.db
+Desktop.ini
